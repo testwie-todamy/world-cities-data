@@ -1,0 +1,12 @@
+{
+  "city": "Tokyo",
+  "coordinates": {
+    "latitude": 35.6764225,
+    "longitude": 139.650027
+  },
+  "elevation_m": 38.84640502929688,
+  "landmark": {
+    "name": "Tokyo Tower",
+    "address": "4-chōme-2-8 Shibakōen, Minato City, Tokyo 105-0011, Japan"
+  }
+}
