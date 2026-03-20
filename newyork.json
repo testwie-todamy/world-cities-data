@@ -1,0 +1,12 @@
+{
+  "city": "New York",
+  "coordinates": {
+    "latitude": 40.7127753,
+    "longitude": -74.0059728
+  },
+  "elevation_m": 13.36520862579346,
+  "landmark": {
+    "name": "Empire State Building",
+    "address": "20 W 34th St., New York, NY 10001, USA"
+  }
+}
